@@ -1,0 +1,1 @@
+Pandas Data Manipulation and Cleaning WorkflowThis repository contains a collection of practical pandas and numpy snippets for data cleaning, preprocessing, and feature engineering. It demonstrates common operations including data selection, handling missing values, managing duplicate rows, conditional column creation, and string formatting.
